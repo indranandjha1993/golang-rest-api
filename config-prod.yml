@@ -1,0 +1,7 @@
+database:
+  uri: "mongodb://localhost"
+  databasename: "site-api-mongodb"
+  username: ""
+  password: ""
+server:
+  port: ":3000"

@@ -1,0 +1,7 @@
+database:
+  uri: "mongodb+srv://admin:Secure2022@cluster0.oysilok.mongodb.net/?retryWrites=true&w=majority"
+  databasename: "test"
+  username: "admin"
+  password: "Secure2022"
+server:
+  port: ":3000"
